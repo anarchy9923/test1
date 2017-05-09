@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="test">46d7fd8e4f02720023974ea18110c7ff</application>
+        <application display_value="test2">71a978f64f22320023974ea18110c769</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -12,35 +12,35 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>tests</mobile_title>
+        <mobile_title>test2s</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_10830_test1_test</name>
+        <name>x_10830_test1_test2</name>
         <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_10830_test1.test_user</roles>
+        <roles>x_10830_test1.test2_user</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-05-09 05:01:36</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_created_on>2017-05-09 05:54:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>7d7d24724f22320023974ea18110c755</sys_id>
+        <sys_id>3da978f64f22320023974ea18110c76b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>tests</sys_name>
+        <sys_name>test2s</sys_name>
         <sys_overrides/>
         <sys_package display_value="test1" source="x_10830_test1">b7f1c9624f22320023974ea18110c76d</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="test1">b7f1c9624f22320023974ea18110c76d</sys_scope>
-        <sys_update_name>sys_app_module_7d7d24724f22320023974ea18110c755</sys_update_name>
+        <sys_update_name>sys_app_module_3da978f64f22320023974ea18110c76b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-09 05:01:36</sys_updated_on>
+        <sys_updated_on>2017-05-09 05:54:50</sys_updated_on>
         <timeline_page/>
-        <title>tests</title>
+        <title>test2s</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

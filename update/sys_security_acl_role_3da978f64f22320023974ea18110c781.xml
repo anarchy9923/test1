@@ -3,20 +3,20 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-05-09 05:01:36</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>0a7d24724f22320023974ea18110c77d</sys_id>
+        <sys_created_on>2017-05-09 05:54:51</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3da978f64f22320023974ea18110c781</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_10830_test1_test.x_10830_test1.test_user</sys_name>
+        <sys_name>x_10830_test1_test2.x_10830_test1.test2_user</sys_name>
         <sys_package display_value="test1" source="x_10830_test1">b7f1c9624f22320023974ea18110c76d</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="test1">b7f1c9624f22320023974ea18110c76d</sys_scope>
-        <sys_security_acl display_value="x_10830_test1_test">4e7d24724f22320023974ea18110c77a</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_0a7d24724f22320023974ea18110c77d</sys_update_name>
+        <sys_security_acl display_value="x_10830_test1_test2">71a978f64f22320023974ea18110c77f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3da978f64f22320023974ea18110c781</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-09 05:01:36</sys_updated_on>
-        <sys_user_role display_value="x_10830_test1.test_user" name="x_10830_test1.test_user">797d2c324f22320023974ea18110c79b</sys_user_role>
+        <sys_updated_on>2017-05-09 05:54:51</sys_updated_on>
+        <sys_user_role display_value="x_10830_test1.test2_user" name="x_10830_test1.test2_user">21a974324f22320023974ea18110c7a0</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>
