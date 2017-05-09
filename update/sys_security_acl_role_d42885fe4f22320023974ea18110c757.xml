@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 06:58:05</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d42885fe4f22320023974ea18110c757</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_10830_test1_test14.x_10830_test1.test14_user</sys_name>
+        <sys_package display_value="test1" source="x_10830_test1">b7f1c9624f22320023974ea18110c76d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="test1">b7f1c9624f22320023974ea18110c76d</sys_scope>
+        <sys_security_acl display_value="x_10830_test1_test14">1c2885fe4f22320023974ea18110c754</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d42885fe4f22320023974ea18110c757</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 06:58:05</sys_updated_on>
+        <sys_user_role display_value="x_10830_test1.test14_user" name="x_10830_test1.test14_user">802809f64f22320023974ea18110c77b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
